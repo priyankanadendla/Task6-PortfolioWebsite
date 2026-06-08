@@ -1,19 +1,19 @@
- Project Overview
+# Project Overview
 
-This is a personal portfolio website built using HTML, CSS, and JavaScript to showcase my profile and skills.
+- This is a personal portfolio website built using HTML, CSS, and JavaScript to showcase my profile and skills.
 
  
- Features
+ ## Features
 
-Profile image and introduction
-About, Skills, and Projects sections
-Contact form
-Responsive design
+- Profile image and introduction
+- About, Skills, and Projects sections
+- Contact form
+- Responsive design
 
 
-Output
+## Output
 
-A complete portfolio website that professionally displays personal information and projects.
+-A complete portfolio website that professionally displays personal information and projects.
 
 
 <img width="1366" height="768" alt="task6 1" src="https://github.com/user-attachments/assets/e0bb2570-f509-43e1-aa71-a50ca86b3949" />
